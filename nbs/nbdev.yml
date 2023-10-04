@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "microsoft_phi15_project"
+  site-url: "https://nvtai040502.github.io/microsoft_phi15_project"
+  description: "Building architecture transformers of Microsoft Phi1.5 from scratch"
+  repo-branch: main
+  repo-url: "https://github.com/nvtai040502/microsoft_phi15_project"
